@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="atm.net.buyut-tabris" version="0.1.0">
+  <name>Buyut Tabris</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="jokorb@yahoo.co.uk">
+    Joko Rivai
+  </author>
+  <access origin="*" />
+  <content src="app.js" />    
+  
+  <preference name="EnableDeveloperConsole" value="true"/>
+</widget>
