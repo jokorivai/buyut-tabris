@@ -8,7 +8,7 @@
     Joko Rivai
   </author>
   <access origin="*" />
-  <content src="app.js" />    
+    
   
   <preference name="EnableDeveloperConsole" value="true"/>
 </widget>
